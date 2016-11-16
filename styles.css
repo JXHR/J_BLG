@@ -138,7 +138,7 @@ h1 {
 #fanart li {
   display: block;
   text-align: center;
-  float: leftcenter;
+  float: center;
   width: 28%;
   background: #000; 
   margin: 20px 5px 20px 5px;
