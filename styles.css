@@ -128,25 +128,25 @@ h1 {
 }
 #fanart {
   display: block;
-}
-text-align: left;
+  background: #000;
+  text-align: left;
 }
 
 #fanart li {
   display: block;
-text-align: left;
+  text-align: left;
   float: left;
   width: 30%;
-  
+  background: #000;
   margin: 20px 5px 20px 5px;
 }
 
 #fanart li a {
   display: inline-block;
-float: center;
-text-align: center;
+  float: center;
+  text-align: center;
   width: 250px;
-padding: 0px;
+  padding: 0px;
   background: #000;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
