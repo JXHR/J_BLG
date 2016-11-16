@@ -215,5 +215,6 @@ html[xmlns] .clearfix { display: block; }
     float: none;
     display: inline-block;
     width: 80%;
+    background: #000;
     margin-bottom: 30px;
   }
