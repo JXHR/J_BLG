@@ -73,6 +73,7 @@ position: center;
 #portfolio li {
   display: block;
 text-align: center;
+  background: #000;
   float: leftcenter;
   width: 28%;
   
