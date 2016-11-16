@@ -83,7 +83,7 @@
   display: none !important; }
 
 .mfp-preloader {
-  color: #cccccc;
+  color: #000000;
   position: absolute;
   top: 50%;
   width: auto;
@@ -93,7 +93,7 @@
   right: 8px;
   z-index: 1044; }
   .mfp-preloader a {
-    color: #cccccc; }
+    color: #000000; }
     .mfp-preloader a:hover {
       color: white; }
 
