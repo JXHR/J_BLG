@@ -97,6 +97,7 @@ padding: 3px;
 #landscape {
   display: block;
 text-align: center;
+  background: #000;
 }
 
 #landscape li {
@@ -105,7 +106,7 @@ float: center;
 display: block;
   float: center;
   width: 100%;
-
+background: #000;
  margin: 20px 5px 20px 5px;
 }
 
@@ -116,7 +117,7 @@ margin-right: 22px;right: 50%;
   width: 762px;
   padding: 0px;
 text-align: center;  
-background: #555;
+background: #000;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -200,6 +201,7 @@ html[xmlns] .clearfix { display: block; }
     float: center;
     display: inline-block;
     width: 100%;
+  background: #000;
     margin-bottom: 30px;
   }
 }
