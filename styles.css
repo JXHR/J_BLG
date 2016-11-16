@@ -73,10 +73,9 @@ position: center;
 #portfolio li {
   display: block;
 text-align: center;
-  background: #000;
   float: leftcenter;
   width: 28%;
-  
+   background: #000; 
   margin: 20px 5px 20px 5px;
 }
 
