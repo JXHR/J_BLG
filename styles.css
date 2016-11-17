@@ -184,6 +184,7 @@ html[xmlns] .clearfix { display: block; }
     width: 100%;
   }
 }
+@media screen and (max-width: 780px) {
   #fanart li {
     width: 45%;
   }
@@ -210,7 +211,7 @@ html[xmlns] .clearfix { display: block; }
   background: #000;
     margin-bottom: 30px;
   }
-}
+
 #fanart { 
     text-align: center;
   }
@@ -221,4 +222,6 @@ html[xmlns] .clearfix { display: block; }
     width: 80%;
     background: #000;
     margin-bottom: 10px;
+  }
+  
   }
